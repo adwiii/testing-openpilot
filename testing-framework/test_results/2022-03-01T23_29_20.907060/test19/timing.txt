@@ -1,0 +1,2 @@
+Test timeout reached, killing docker
+Test 19 finished after 62.1 sec

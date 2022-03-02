@@ -1,0 +1,7 @@
+Collision between
+Actor(id=1027, type=vehicle.tesla.model3)
+Actor(id=0, type=static.guardrail)
+Impulse (x, y, z)
+5389.445312 71.171013 0.000000
+Intensity
+5389.915221
